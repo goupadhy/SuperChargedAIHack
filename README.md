@@ -4,7 +4,7 @@
 
 
 
-## GPS-India AI Hackathon Resources for AI Agent :innocent:	 
+## GPS-India AI Hackathon Resources for AI Agents :innocent:	 
 
 
 :link:	Agent Overview: [link](https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fadoption%2Emicrosoft%2Ecom%3A443%2Ffiles%2Fcopilot%2FAgentOverviewGuide%2Epptx&amp) 

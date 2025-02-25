@@ -6,39 +6,38 @@ Some good resources on AI agents :
 𝗟𝟭𝟬𝟬 (𝗕𝗲𝗴𝗶𝗻𝗻𝗲𝗿)
 
 :link: 𝗔𝗜 𝗮𝗴𝗲𝗻𝘁𝘀 — 𝘄𝗵𝗮𝘁 𝘁𝗵𝗲𝘆 𝗮𝗿𝗲, 𝗮𝗻𝗱 𝗵𝗼𝘄 𝘁𝗵𝗲𝘆’𝗹𝗹 𝗰𝗵𝗮𝗻𝗴𝗲 𝘁𝗵𝗲 𝘄𝗮𝘆 𝘄𝗲 𝘄𝗼𝗿𝗸
- https://lnkd.in/gf7NMMTG
+ https://news.microsoft.com/source/features/ai/ai-agents-what-they-are-and-how-theyll-change-the-way-we-work/
 
 :link: 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗘𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗔𝗴𝗲𝗻𝘁𝘀
- https://lnkd.in/gz5XH4-N
+https://www.anthropic.com/research/building-effective-agents
 
  :link: 𝗔𝗴𝗲𝗻𝘁𝘀 - 𝗔𝗻 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
-https://lnkd.in/gkxWCkQN
+https://huyenchip.com/2025/01/07/agents.html
 
 𝗟𝟮𝟬𝟬 (𝗜𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲)
 
 :link: 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀 𝘄𝗶𝘁𝗵 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝟯𝟲𝟱 𝗖𝗼𝗽𝗶𝗹𝗼𝘁: 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗶𝗻𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗶𝗻𝗴 𝗔𝗜 𝗮𝗴𝗲𝗻𝘁𝘀 𝘂𝘀𝗶𝗻𝗴 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝟯𝟲𝟱 𝗖𝗼𝗽𝗶𝗹𝗼𝘁
-https://lnkd.in/gFUU_xjp
+https://www.microsoft.com/insidetrack/blog/ai-powered-agents-in-action-how-were-embracing-this-new-agentic-moment-at-microsoft/
 
 :link: 𝗨𝗻𝗹𝗼𝗰𝗸𝗶𝗻𝗴 𝗔𝗜-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗔𝘇𝘂𝗿𝗲 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁 𝗦𝗲𝗿𝘃𝗶𝗰𝗲
-https://lnkd.in/gXz6QTrm
+https://techcommunity.microsoft.com/blog/azure-ai-services-blog/unlocking-ai-powered-automation-with-azure-ai-agent-service/4372041
 
 𝗟𝟯𝟬𝟬 (𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱)
 
 :link: Multi-Agent Collaboration in Azure: Advanced techniques for enabling collaboration among multiple AI agents
-https://lnkd.in/gCTmvE_u
+https://azure.microsoft.com/en-us/blog/ai-agents-at-work-the-new-frontier-in-business-automation/
 
 :link: 𝗪𝗵𝗮𝘁 𝗶𝘀 𝗔𝘇𝘂𝗿𝗲 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁 𝗦𝗲𝗿𝘃𝗶𝗰𝗲? 𝗗𝗲𝗽𝗹𝗼𝘆𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
-https://lnkd.in/gw7JWcPs
+https://learn.microsoft.com/en-us/azure/ai-services/agents/overview
 
 :link: 𝗧𝗵𝗲 𝗘𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗼𝗳 𝗔𝗜 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁'𝘀 𝗟𝗮𝘁𝗲𝘀𝘁 𝗠𝘂𝗹𝘁𝗶-𝗔𝗴𝗲𝗻𝘁 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
-https://lnkd.in/gPxJmCEr
+https://techcommunity.microsoft.com/blog/machinelearningblog/the-evolution-of-ai-frameworks-understanding-microsofts-latest-multi-agent-syste/4339739
 
 :link: 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁’𝘀 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: 𝗔𝘂𝘁𝗼𝗚𝗲𝗻 𝗮𝗻𝗱 𝗦𝗲𝗺𝗮𝗻𝘁𝗶𝗰 𝗞𝗲𝗿𝗻𝗲𝗹
-https://lnkd.in/g8GmfFji
+https://devblogs.microsoft.com/autogen/microsofts-agentic-frameworks-autogen-and-semantic-kernel/
 
 :link: 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻 𝗧𝗼 𝘀𝗲𝗺𝗮𝗻𝘁𝗶𝗰 𝗞𝗲𝗿𝗻𝗲𝗹
-https://lnkd.in/gVy3wXpV
-
+https://learn.microsoft.com/en-us/semantic-kernel/overview/
 
 
 
